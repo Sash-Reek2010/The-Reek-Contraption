@@ -9,13 +9,14 @@ This circuit consists of 3 resistors, 2 capacitors, a power supply and 3 switche
 ## What happens in the circuit
 The S1 controls the power supply to the circuit. We will focus on one subsection of the circuit since both are copies of each other but with the capacitances swapped.\
 When all switches are closed the LED slowly brightens and reaches a level of brightness, say L1. Opening S'1 results in the LED getting brighter than L1. Then when you close S'1 again, the LED dims a bit and slowly regains its brightness back to L1. The dip in brightness depends on how long the ciruit is open for.\
-<img width="256" height="141" alt="Screenshot 2026-03-16 185215" src="https://github.com/user-attachments/assets/4a9d6d9c-da34-4e0c-b507-0e8e4a29c1cf" />
+
 
 ## Interesting observations
 The first main thing I observed was that R1 HAD to be of lower resistance than R'1 and R'2 or the circuit wouln't function properly as expected. \
 The reason I reason i chose to have two different subsections was to experiment with the values of the capacitance of the two pairs capacitors by swapping them.\
 Swapping the capacitors made the "open" time different for a full dim of the LED. C1's capacitance is less than that of C2 so the time I had to keep the circuit is very little. Meanwhile C'1's capacitance is greater than C'2's, so the time I open the circuit is pretty high. Keeping the circuit open for a really long time just delays the initial brightening of the LED but the time it takes to fully brighten depends on the capacitances.\
-I haven't experimented with my circuit enough to record all the observations but I hope to in the future.
+I haven't experimented with my circuit enough to record all the observations but I hope to in the future.\
+<img width="256" height="141" alt="Screenshot 2026-03-16 185215" src="https://github.com/user-attachments/assets/4a9d6d9c-da34-4e0c-b507-0e8e4a29c1cf" />
 ## Use case
 It still needs developement until it can be a useful circuit by itself but as of now it can be used as a part of a bigger one./
 ### Thanks for reading! Hope you like my design! - Sashreek :3
