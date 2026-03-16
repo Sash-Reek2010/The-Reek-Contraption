@@ -1,6 +1,7 @@
 # The-Reek-Contraption
 It is an RC Circuit where an LED changes the time it takes to regain its brightness based on the time a switch is open.
-<img width="372" height="317" alt="image" src="https://github.com/user-attachments/assets/660cce54-2dca-4f39-a6b7-67bbedf60c71" />
+<img width="375" height="325" alt="Screenshot 2026-03-16 191505" src="https://github.com/user-attachments/assets/caf4d6e1-cb93-4c73-a1fd-5d1902d2dc83" />
+
 <img width="372" height="317" alt="Screenshot 2026-03-16 191513" src="https://github.com/user-attachments/assets/77fe5e6b-27ff-4cdb-974c-7fc5d368bb43" />
 
 ## Components
