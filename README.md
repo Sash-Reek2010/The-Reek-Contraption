@@ -3,7 +3,7 @@ It is an RC Circuit where an LED changes the time it takes to regain its brightn
 <img width="375" height="325" alt="Screenshot 2026-03-16 191505" src="https://github.com/user-attachments/assets/caf4d6e1-cb93-4c73-a1fd-5d1902d2dc83" />
 <img width="372" height="317" alt="Screenshot 2026-03-16 191513" src="https://github.com/user-attachments/assets/77fe5e6b-27ff-4cdb-974c-7fc5d368bb43" />\
 ## Try it out!
-https://www.falstad.com/circuit/circuitjs.html?ctz=CQAgjCAMB0l3BWcsDMYBM6EA4GTClgOwBsJIeFFkFApgLRhgBQAxuACxHojqTaduvbAI5RY8CGGgl0KSCgCcCoqXSrsEGHC3QWYWeAQpyfAWGOmRvEABNaAMwCGAVwA2AF3pvat8FADtFnYDOF5+cBIw9GsxbXhMeCTkuBRkWXklFVIOSG4icR0oZgAnSOwaM3LK6xoweGYAd0jo6wMK4QFIJsEeKosTcK6egdMI0MqI7uaJoeq56d7Oo0GY4YBnFatzKJqugOc3ddo2JcI6rh5cmjiJOESUx7TpDIVlDjARY0hFLoldfSGUYgc5bEDXGz2ZzuLw+PxaQKwYItGig2YQ25JKQyORvSAfERyDiY-DFMrtVF8eYQuoNGaXZZgBmgxZMoRoywgqmszlo3Zcmis-l8joskb8iEU8FhHmDSUMmkjBVhAikaWC5ibYGSiUyg5OI4nABuS1CSyqgulVEtMAQpVNUSWinINDw3S1KDVzqdLv1hpGnvI3tV5EVAHsbCQ4tLFIprXcfqQELIkJUbChmBGMCAowFcrH40lFEmU-4eNmM0A
+https://is.gd/x2Xixh
 ## Components
 This circuit consists of 3 resistors, 2 capacitors, a power supply and 3 switches. I will refer to the main resistor as R1 and the two resistors in the circuit as R'1 and R'2. For the capacitors, C1, C2, C'1 and C'2. Then for the switches, the main switch is S1 and the two other ones are S'1 and S'2.
 ## What happens in the circuit
@@ -17,6 +17,8 @@ I haven't experimented with my circuit enough to record all the observations but
 <img width="256" height="141" alt="Screenshot 2026-03-16 185215" src="https://github.com/user-attachments/assets/4a9d6d9c-da34-4e0c-b507-0e8e4a29c1cf" />
 ## Why stuff happens
 When S1, S'1 and S'2 are all closed the circuit functions normally with the power source providing the brightness of the LEDs up to L1. The capacitors C1 and C2 and C'1 and C'2 get charged too. When S'1 or S'2 is open, the capacitor has to discharge which increases the intensity of the brightness of the LED. This measn that the capacitor voltage is different from the power supply volatge. Closing S'1 or S'2 results in the circuit banacing out the capacitor voltage by pulling some current away from the LEDs for a little while until it goes back to normal. The difference is the capacitor voltage and the circuit voltage is what the time which the switch remains closed controls. 
+## GIF
+![sas](https://github.com/user-attachments/assets/4d88f568-00f7-48b1-a0e0-9cb1d27df780)
 ## Use case
 It still needs developement until it can be a useful circuit by itself but as of now it can be used as a part of a bigger one./
 ### Thanks for reading! Hope you like my design! - Sashreek :3
